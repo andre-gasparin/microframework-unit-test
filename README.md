@@ -8,7 +8,9 @@ MicroFramework de Unit Test simples, para testar classes isoladas
 
 # Uso
 Colocar classe a ser testada na pasta /class
+
 Criar classe de teste na pasta /test com o final test.php, assim como os métodos.
+
 Caso queira incrementar metodos de teste, alterar TestFunctions.php e utilizar no método de teste.
 
 OBS. existe um autoloader simples para essas pastas, somente colocando os arquivos o MFW já irá identificar
